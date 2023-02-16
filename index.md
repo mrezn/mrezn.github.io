@@ -1,123 +1,64 @@
 ---
 layout: default
+title: "MohammadHosein Gholamrezaei"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+My name is MohammadHosein Gholamrezaei. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Architecture, AI Hardware Accelerators, Embedded Systems, Design Automation, and Computer Engineering.
 
 
-### Definition lists can be used with HTML syntax.
+## Publications 
+**An Energy-Efficient K-means Clustering FPGA Accelerator via Most-Significant Digit First Arithmetic** 
+Saeid Gorgin, **Mohammadhosein Gholamrezaei**, Danial Javaheri and Jeong-A Lee
+In *International Conference on Field Programmable Technology (FPT)*, Dec 2022
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**HyperDbg: Reinventing Hardware-Assisted Debugging**   
+Mohammad Sina Karvandi, **MohammadHossein Gholamrezaei**, Saleh Khalaj Monfared, Soroush Meghdadizanjani, Behrooz Abbassi, Ali Amini, Reza Mortazavi, Saeid Gorgin, Dara Rahmati, Michael Schwarz
+In *ACM Conference on Computer and Communications Security (CCS)*, Nov 2022   
+\[[code](https://github.com/HyperDbg)\] | \[[website](https://hyperdbg.org/)\]
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**FIR Filter Architectures Using Accurate Unary Stochastic Computing**  
+Kamyar Givaki, Ahmad Khonsari, **Mohammad Hossein Gholamrezaei**, Dara Rahmati and Saeid Gorgin
+In *IEEE International Conference on Computer Design (ICCD)*, Oct 2022   
 
-```
-The final element.
-```
+**kNN-MSDF: A Hardware Accelerator for k-Nearest Neighbors Using Most Significant Digit First Computation**  
+S. Gorgin, **M. H. Gholamrezaei**, D. Javaheri, J. A. Lee  
+In *IEEE International System-on-Chip Conference (SOCC)*, Sep 2022
+\[[link](https://ieeexplore.ieee.org/document/9908102)\]
+
+**An Efficient FPGA Implementation of k-Nearest Neighbors via Online Arithmetic**  
+S. Gorgin, **M. H. Gholamrezaei**, D. Javaheri, J. A. Lee  
+In *IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)*, May 2022  
+\[[link](https://ieeexplore.ieee.org/document/9786165)\]
+
+**High Performance Deterministic Stochastic Computing Using Residue Number System**  
+Kamyar Givaki, Reza Hojabr, **M.H. Gholamrezaei**, Ahmad Khonsari, Saeid Gorgin, Dara Rahmati, M. Hassan Najafi
+In *IEEE Design and Test*, Jan 2021  
+\[[link](https://ieeexplore.ieee.org/document/9324741/)\]
+
+**Using Residue Number Systems to Accelerate Deterministic Bit-stream Multiplication**  
+ Kamyar Givaki, Reza Hojabr, M. Hassan Najafi, Ahmad Khonsari, **M. Hossein Gholamrezayi**,  Saeid Gorgin, Dara Rahmati
+In *International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, July 2019  
+\[[link](https://ieeexplore.ieee.org/document/8825100)\]
+
+---
+
+## Teaching Experiences
+
+Fall 2020: **Real-Time and Embedded Systems**, [Dr. Seyed-Hosein Attarzadeh-Niaki](http://facultymembers.sbu.ac.ir/attarzadeh/)  
+Co-Teacher Assistant, Shahid Beheshti University  
+
+Spring 2020: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
+Fall 2019: **Digital Design Course**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
+Fall 2019:  **Real-Time and Embedded Systems**, [Dr. Seyed-Hosein Attarzadeh-Niaki](http://facultymembers.sbu.ac.ir/attarzadeh/)  
+Co-Teacher Assistant, Shahid Beheshti University 
+
+Spring 2019: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
+Fall 2018: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
