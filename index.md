@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "MohammadHosein Gholamrezaei"
+title: "Mohammadreza Najafi"
 ---
 
-My name is MohammadHosein Gholamrezaei. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Architecture, AI Hardware Accelerators, Embedded Systems, Design Automation, and Computer Engineering.
+My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Vision, AI Accelerators, Embedded Systems, Low power and Realtime Computer Vision,Adaptive Neuro-Fuzzy Inference Systems and Robotics and Autonomous systems.
 
 
 ## Publications 
