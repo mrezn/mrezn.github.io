@@ -7,7 +7,7 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 
 ## Research Exprience 
 **Chosun university and NH company(LINC project)**[August 2022 to January  2023]
-*Deploy low power crowd detection and crowd alert system on CCTVs(edge device)*
+\Number*Deploy low power crowd detection and crowd alert system on CCTVs(edge device)*
 
 
 **Chosun university**[March 2022 until now]
