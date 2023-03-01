@@ -38,15 +38,19 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 
 ## Publications 
 
+**<a href= /ice.pdf>Ice Detection on Edge Device Based on Most Significant Digit First SVM<\a>** @ *The 6th International Conference on Video and Image Processing *
+
+**<a href= /abs.pdf>ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing<\a>** @ *2023 IEEE International Conference on Fuzzy Systems* 
+
+**<a href= /svm.pdf>MSDF-SVM: Advantage of Most Significant Digit First Arithmetic in FPGA Realization of SVM<\a>** @ *Under review*
+
 **A Deep Learning Approach for Simulating Financial Dynamic Systems** @ *Iranian National Informatics Conference*
 
-**MSDF-SVM: Advantage of Most Significant Digit First Arithmetic in FPGA Realization of SVM** @ *Under review*
+**<a href= /object.pdf>CluFy: low power object classification model based on object estimation<\a>** @ *Under review*
 
-**CluFy: low power object classification model based on object estimation** @ *Under review*
 
-**ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing** @ *2023 IEEE International Conference on Fuzzy Systems* 
 
-**Ice Detection on Edge Device Based on Most Significant Digit First SVM** @ *The 6th International Conference on Video and Image Processing *
+
 
 
 
