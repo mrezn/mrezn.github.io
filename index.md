@@ -38,7 +38,7 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 
 ## Publications 
 
-**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](/ice.pdf)** @ *The 6th International Conference on Video and Image Processing *
+**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing *
 
 **[ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing](/abs.pdf)** @ *2023 IEEE International Conference on Fuzzy Systems* 
 
