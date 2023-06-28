@@ -5,6 +5,10 @@ title: "Mohammadreza Najafi"
 
 My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Vision, AI Accelerators, Embedded Systems, Low power and Realtime Computer Vision,Adaptive Neuro-Fuzzy Inference Systems and Robotics and Autonomous systems.
 
+## Current Posiotion 
+**Research Assistant at Chosun University , South Korea**
+**Member of R&D team at DHautoware Company**
+
 ## Research Exprience 
 
 **Chosun university and NH company(LINC project)**[August 2022 to January  2023]
@@ -39,14 +43,11 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 ## Publications 
 
 **[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing *
+**[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
 **[ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing](/abs.pdf)** @ *2023 IEEE International Conference on Fuzzy Systems* 
 
 **[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic in FPGA Realization of SVM](/svm.pdf)** @ *Under review*
-
-**A Deep Learning Approach for Simulating Financial Dynamic Systems** @ *Iranian National Informatics Conference*
-
-**[CluFy: low power object classification model based on object estimation](/object.pdf)** @ *Under review*
 
 
 
@@ -71,6 +72,9 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 
 
 ## Academic Projects
+
+**collaborating with the DHautoware R&D team to design an intelligent surround view system for vehicles.**
+This project aims to leverage artificial neural networks (ANN) to generate a bird-eye view transformation matrix without manual calibration, improving safety and convenience in automotive applications.
 
 **Deploy low power iced road surface recognition on CCTVs(edge device), NH company and university LINC project.**
 
