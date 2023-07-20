@@ -20,8 +20,9 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 
 **[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization]** @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023 *
 
-**[ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing]** @ *Under review* 
+**ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing** @ *Under review* 
 
+**Mapping post-earthquake landslide susceptibility using U-net, VGG-16, VGG-19, and metaheuristic algorithms** @ *Under review at Natural Hazards journal* 
 
 ## Research Exprience 
 
