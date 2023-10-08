@@ -18,7 +18,7 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 **[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing *
 **[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
-[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](./SVM.pdf) @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023 *
+[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](/svm.pdf) @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023 *
 
 **ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing** @ *Under review* 
 
