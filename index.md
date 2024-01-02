@@ -68,7 +68,7 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 [May 2019 to present]
 *Using deep neural network and image processing to remove HTC Vive controller.In this research project, I trained a deep neural network that could recognize the texture of the hand in the input image,then connected the HTC Vive headset camera to this network. This allowed me to remove the controllers and execute all the controller commands without using the controller.*
 
-##-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------##
+**-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Academic Projects
 
 **collaborating with the DHautoware R&D team to design an intelligent surround view system for vehicles.**
