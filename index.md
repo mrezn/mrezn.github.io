@@ -10,8 +10,8 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 --Master Student at Computer Engineering Department at Chosun University , South Korea
 
 --Research Assistant at CSLab ,Chosun University, South Korea
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Publications 
 
 **[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing*
@@ -25,7 +25,6 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 **[An Ultra-Low-Computation Model for Understanding Sign Languages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648031)** @ *Under Review*
 
 **[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under Review*
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Research Exprience 
@@ -88,7 +87,6 @@ This project aims to leverage artificial neural networks (ANN) to generate a bir
 **Scheduling a rescue quad-copter With Arduino processor }, final project of Control automatic course.**
 
 **Design and manufacture of vibrating stand test} ,final project of Vibration  course.**
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Academic Experience
