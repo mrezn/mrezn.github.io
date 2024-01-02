@@ -3,31 +3,34 @@ layout: default
 title: "Mohammadreza Najafi"
 ---
 
-My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Vision, AI Accelerators, Embedded Systems, Low power and Realtime Computer Vision,Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
+My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, South Korea. My research interests include Machine Learning, AI Accelerators, Embedded Systems, Low power and Realtime Computer Vision,Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
 
-## Current Posiotion 
+## Current Position 
 
-**Master Student at Computer Engineering Department at Chosun University , South Korea**
+--Master Student at Computer Engineering Department at Chosun University , South Korea
 
-**Research Assistant at Chosun University , South Korea**
+--Research Assistant at CSLab ,Chosun University, South Korea
 
-**Member of R&D team at DHautoware Company**
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Publications 
 
-**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing *
+**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing*
 
 **[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
-[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](/svm.pdf) @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023 *
+**[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](https://cmsworkshops.com/Asilomar2023/view_session.php?SessionID=1106)** @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023*
 
-**ADFA: Abstraction and Decision Fusion Architecture for Resource-Aware Intelligent Computing** @ *Under review* 
+**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black.pdf)** @ *Under Review*
 
-**Mapping post-earthquake landslide susceptibility using U-net, VGG-16, VGG-19, and metaheuristic algorithms** @ *Under review at Natural Hazards journal* 
+**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648031)** @ *Under Review*
+
+**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under Review*
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Research Exprience 
 **DHAutoware Company**
-[Jun 2023 to now]
+[Jun 2023 to Dec 2023]
 *Research on optimizing machine learning algorithm for designing Intelligence Surround View System for Vehicle for Embedded Devices*
 
 **Chosun university and NH company(LINC project)**
@@ -65,6 +68,7 @@ Using Deep reinforcement learning to grab an object in 3D from one point to anot
 
 [May 2019 to present]
 *Using deep neural network and image processing to remove HTC Vive controller.In this research project, I trained a deep neural network that could recognize the texture of the hand in the input image,then connected the HTC Vive headset camera to this network. This allowed me to remove the controllers and execute all the controller commands without using the controller.*
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Academic Projects
 
@@ -85,6 +89,7 @@ This project aims to leverage artificial neural networks (ANN) to generate a bir
 
 **Design and manufacture of vibrating stand test} ,final project of Vibration  course.**
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Academic Experience
 
