@@ -3,7 +3,7 @@ layout: default
 title: "Mohammadreza Najafi"
 ---
 
-My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, South Korea. My research interests include Machine Learning, AI Accelerators, Embedded Systems, Low power and Realtime Computer Vision,Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
+My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, South Korea. My research interests include Machine Learning, Computer Vision, Low power and Realtime Computer Vision for Embedded Systems, Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
 
 ## Current Position 
 
@@ -13,18 +13,19 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Publications 
+**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648031)** @ *Expert system with application Journal
+,2024.*
 
-**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing*
+**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Applied soft computing journal,2024.*
 
-**[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
+**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black.pdf)** @ *IEEE Conference on Artificial Intelligence, 2024.*
 
 **[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](https://cmsworkshops.com/Asilomar2023/view_session.php?SessionID=1106)** @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023*
 
-**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black.pdf)** @ *Under Review*
+**[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing,2022*
 
-**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648031)** @ *Under Review*
+**[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
-**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under Review*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Research Exprience 
