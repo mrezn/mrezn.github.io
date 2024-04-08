@@ -13,22 +13,42 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Publications 
-**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648031)** @ *Expert system with application Journal
+**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006481)** @ *Expert system with application Journal
 ,2024.*
 
-**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Applied soft computing journal,2024.*
-
-**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black.pdf)** @ *IEEE Conference on Artificial Intelligence, 2024.*
-
-**[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](https://cmsworkshops.com/Asilomar2023/view_session.php?SessionID=1106)** @ *Accepted at  Asilomar Conference on Signals, Systems, and Computers 2023*
+**[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](https://ieeexplore.ieee.org/abstract/document/10477090)** @ *Asilomar Conference on Signals, Systems, and Computers 2023*
 
 **[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing,2022*
 
+**[Integration of Wearable and Affective Computing via Abstraction and Decision Fusion Architecture](https://www.cse.unsw.edu.au/~wowmom/2024/index.html)** @ *A25th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks,2024.*
+
 **[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
+**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under review at Applied soft computing journal,2024.*
+
+**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black_Ice.pdf)** @ *Under review at the 15th International Conference on Ubiquitous and Future Networks,2024.*
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Patents 
+ **1. Efficient Low-Power Vision Based BLACK-ICE Detection Model Using CCTV with Minimal Training Image Requirements.**
+
+ **2. An Intelligent Low power System for Sign language Detection.**
+
+ **3. Leveraging Data Abstraction Techniques to Reduce Computation and Enhance Efficiency.**
+ 
+ **4. Efficient Hardware Accelerators for K-Nearest Neighbors (k-NN) for Classification by using Most Significant Digit First Arithmetic.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Research Exprience 
+
+
+**Chosun university**
+
+[March 2022 until now]
+*Research on low-power computer vision algorithms for deploying on embedded devices in field of object detection and classification*
+
+*Research on using Adaptive Neuro-Fuzzy Inference System in computer vision application*
+
 **DHAutoware Company**
 [Jun 2023 to Dec 2023]
 *Research on optimizing machine learning algorithm for designing Intelligence Surround View System for Vehicle for Embedded Devices*
@@ -38,13 +58,6 @@ My name is Mohammadreza Najafi. I am a Master's student at the Department of Com
 [August 2022 to January  2023]
 *Design low power crowd detection alert system and crowd alert system on CCTVs(edge device)*
 
-
-**Chosun university**
-
-[March 2022 until now]
-*Research on low-power computer vision algorithms for deploying on embedded devices in field of object detection and classification*
-
-*Research on using Adaptive Neuro-Fuzzy Inference System in computer vision application*
 
 
 **American Institute of Aeronautics and Astronautics(AIAA)**
