@@ -3,30 +3,37 @@ layout: default
 title: "Mohammadreza Najafi"
 ---
 
-My name is Mohammadreza Najafi. I am a Master's student at the Department of Computer Engineering, Chosun University, South Korea. My research interests include Machine Learning, Computer Vision, Low power and Realtime Computer Vision for Embedded Systems, Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
+My name is Mohammadreza Najafi. I am a Research Assistant at the Department of Computer Engineering, Chosun University, South Korea. 
+My research interests include Machine Learning, Computer Vision, Low power and Machine Learning algorithms for Embedded Systems, Federated Learning, Generative AI models, Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
 
 ## Current Position 
 
---Master Student at Computer Engineering Department at Chosun University , South Korea
+--Research Assistant at Wireless Communications and Networks  Lab (WHYNET) ,Chosun University, South Korea
 
---Research Assistant at CSLab ,Chosun University, South Korea
+## Academic Degree 
+
+--**Bachelor Degree** : Aerospace Engineering, Sharif University of Technology, Iran, 2016-2021.
+--**Master Degree** : Computer Engineering, Chosun University, South Korea, 2022-2024.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Publications 
-**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006481)** @ *Expert system with application Journal
-,2024.*
+**[An Ultra-Low-Computation Model for Understanding Sign Languages](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006481)** @ *Expert system with application Journal ,2024.*
+
+**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under review at Applied soft computing journal,2024.*
+
+**[Efficient BLACK-ICE Detection for Low Power Edge Devices](https://ieeexplore.ieee.org/abstract/document/10625231)** @ *Under review at the 15th International Conference on Ubiquitous and Future Networks,2024.*
+
+**[Integration of Wearable and Affective Computing via Abstraction and Decision Fusion Architecture](https://www.cse.unsw.edu.au/~wowmom/2024/index.html)** @ *A25th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks,2024.*
+
+**[Enhancing Global Model Performance in Federated Learning with Non-IID Data using a Data-Free Generative Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10705304)** @ *IEEE Access Journal, 2024.*
 
 **[MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization](https://ieeexplore.ieee.org/abstract/document/10477090)** @ *Asilomar Conference on Signals, Systems, and Computers 2023*
 
 **[Ice Detection on Edge Device Based on Most Significant Digit First SVM](https://dl.acm.org/doi/10.1145/3579109.3579120)** @ *The 6th International Conference on Video and Image Processing,2022*
 
-**[Integration of Wearable and Affective Computing via Abstraction and Decision Fusion Architecture](https://www.cse.unsw.edu.au/~wowmom/2024/index.html)** @ *A25th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks,2024.*
-
 **[Simulation of economic dynamic systems using deep artificial neural networks](https://civilica.com/doc/1002107/)** @ *Iranian National Informatics Conference*
 
-**[Abstraction and Decision Fusion Architecture for Resource-Aware Image Understanding with Application on Handwriting Character Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632037)** @ *Under review at Applied soft computing journal,2024.*
 
-**[Efficient BLACK-ICE Detection for Low Power Edge Devices](/Black_Ice.pdf)** @ *Under review at the 15th International Conference on Ubiquitous and Future Networks,2024.*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Patents 
