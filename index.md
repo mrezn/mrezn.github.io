@@ -13,6 +13,7 @@ My research interests include Machine Learning, Computer Vision, Low power and M
 ## Academic Degree 
 
 --**Bachelor Degree** : Aerospace Engineering, Sharif University of Technology, Iran, 2016-2021.
+
 --**Master Degree** : Computer Engineering, Chosun University, South Korea, 2022-2024.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
