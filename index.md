@@ -3,12 +3,13 @@ layout: default
 title: "Mohammadreza Najafi"
 ---
 
-My name is Mohammadreza Najafi. I am a Research Assistant at the Department of Computer Engineering, Chosun University, South Korea. 
-My research interests include Machine Learning, Computer Vision, Low power and Machine Learning algorithms for Embedded Systems, Federated Learning, Generative AI models, Adaptive Neuro-Fuzzy Inference Systems, Robotics and Autonomous systems.
+My name is Mohammadreza Najafi. I am a PhD Student at the Department of Department of Computer Science and Information Technology, La Trobe University, Australia. 
+
+My research interests include Machine Learning, Computer Vision, Low power and Machine Learning algorithms for Embedded Systems, Federated Learning, Generative AI models, Cybersecurity, Robotics and Autonomous systems.
 
 ## Current Position 
 
---Research Assistant at Wireless Communications and Networks  Lab (WHYNET) ,Chosun University, South Korea
+--PhD Student and researcher at Cybersecurity Lab, La Trobe University, Australia. (2025-Now)
 
 ## Academic Degree 
 
@@ -49,10 +50,14 @@ My research interests include Machine Learning, Computer Vision, Low power and M
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Research Exprience 
 
+**La Trobe university**
+
+[March 2025 until Now]
+*Investigating the application of AI and machine learning algorithms in cybersecurity to enhance the performance of various intrusion detection systems (IDS)*
 
 **Chosun university**
 
-[March 2022 until now]
+[March 2022 until 2024]
 *Research on low-power computer vision algorithms for deploying on embedded devices in field of object detection and classification*
 
 *Research on using Adaptive Neuro-Fuzzy Inference System in computer vision application*
@@ -81,9 +86,16 @@ My research interests include Machine Learning, Computer Vision, Low power and M
 *Research on using ANN as tool for solving  Financial Dynamic Systems PDEs*
 
 **Bachelor Thesis:**
+
 Using Deep reinforcement learning to grab an object in 3D from one point to another point.Practical implementation of this network on the robotic arm in the control laboratory.
 
 *Design automate lifeguard quad-copter which can detect drowning by its embed camera.*
+
+**Master Thesis:**
+
+Developing a data abstraction method to minimize workload in intelligent computer vision applications for resource-constrained embedded devices.
+
+*Lightweight Methods for Data Work Load Reduction in Resource Constrained Computer Vision Systems*
 
 **Institute For Research In Fundamental Sciences (IPM)**
 
