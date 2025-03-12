@@ -5,7 +5,7 @@ title: "Mohammadreza Najafi"
 
 My name is Mohammadreza Najafi. I am a PhD Student at the Department of Department of Computer Science and Information Technology, La Trobe University, Australia. 
 
-My research interests include Machine Learning, Computer Vision, Low power and Machine Learning algorithms for Embedded Systems, Federated Learning, Generative AI models, Cybersecurity, Robotics and Autonomous systems.
+My research interests include Machine Learning, Computer Vision, Low power Machine Learning algorithms for Embedded Systems, Federated Learning, Generative AI models, Cybersecurity and Autonomous systems.
 
 ## Current Position 
 
